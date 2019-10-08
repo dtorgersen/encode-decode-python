@@ -1,6 +1,6 @@
 # encode-decode-python
 IT6780-HW3 - Small program to encode/decode a file. 
-
+```
 python .\encrypt_decrypt.py -h
 usage: encrypt_decrypt.py [-h] [-e ENCRYPT] [-d DECRYPT]
 
@@ -13,3 +13,4 @@ optional arguments:
                         Option for selecting and encrypting a file.
   -d DECRYPT, --decrypt DECRYPT
                         Option for selecting and decrypting a file.
+```
